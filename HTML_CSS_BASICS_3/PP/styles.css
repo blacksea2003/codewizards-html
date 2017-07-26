@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+
+html{
+  width:100%;
+  background:url('naruto.jpg');
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+body {
+  width:550px;
+  margin:auto;
+  margin-top:-30px;
+  font-family: 'Lora', serif;
+  font-style:italic;
+  line-height:1.5;
+  font-size:19px;
+  border-radius:30px;
+}
+
+h1 { 
+  font-family:'Cinzel', serif;
+  font-size: 70px;
+  text-align:center;
+  font-weight:normal;
+  font-style:normal;
+  padding:10px;
+  background-color:#2980b9;
+  color:white;
+  border:1px dashed white;
+}
+
+h3 {
+  font-size:32px;
+  background-color:#c0392b;
+  color:white;
+  text-align:center;
+  margin-bottom:-6px;
+}
+
+p{
+  padding:30px;
+  border-radius:6px;
+  background-color:rgba(255,255,255,0.8);
+  margin-top:0px;
+}

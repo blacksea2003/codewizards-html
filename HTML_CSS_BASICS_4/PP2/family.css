@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Playball');
+body {
+    background:seagreen;
+    font-family: 'Playball', sans-serif;
+    width:600px;
+    margin:auto;
+    color:white;
+    text-align: center;
+    font-size:21px;
+}
+
+h1,h2,h3{
+    font-size:100px;
+    font-weight: normal;
+    font-family: 'Abril Fatface', serif;
+    color:gold;
+}
+
+h2 {
+    font-size:50px;
+}
+
+a {
+    font-size:24px;
+    background:lightgreen;
+    color:brown;
+    margin:5px;
+    border-radius:5px;
+    padding:5px;
+    text-align:center;
+    text-decoration: none;
+}

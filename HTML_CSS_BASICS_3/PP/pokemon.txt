@@ -1,0 +1,15 @@
+Pokemons
+
+Pokemons are powerful creatures, somewhat like animals but with special super powers.
+
+Pikachu
+
+Pikachu is one of the best pokemons, it can shed lightning to electrocute others. Apart from being powerful it also looks very cute specially when it says "pika pika".
+
+Eevee
+
+Eevee is a mammalian, quadruped creature with primarily brown fur. The tip of its bushy tail and its large furry collar are cream-colored. It has short, slender legs with three small toes and a pink paw pad on each foot.
+
+Charizard
+
+Charizard is a draconic, bipedal Pokémon. It is primarily orange with a cream underside from the chest to the tip of its tail, which burns with a sizable flame. Charizard has a long neck, small blue eyes, raised nostrils, and two blunt horns protruding from the back of its rectangular head.
